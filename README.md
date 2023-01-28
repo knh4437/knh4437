@@ -11,6 +11,7 @@
 
 Skills
 -------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knh4437&layout=compact)](https://github.com/knh4437/github-readme-stats)<br><br>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
