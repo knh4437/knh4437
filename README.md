@@ -9,6 +9,8 @@
 - 🌱 부족한 점도 많지만 언제나 최선을 다하는 주니어 백엔드 엔지니어입니다.
 - 📓 체계적인 서버와 데이터베이스에 관심이 있습니다.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fknh4437&count_bg=%23628FDA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 Skills
 -------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knh4437&layout=compact)](https://github.com/knh4437/github-readme-stats)<br><br>
