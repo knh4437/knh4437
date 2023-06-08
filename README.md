@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&&theme=tokyonight&section=header&height=250&animation=fadeIn&text=knh4437&desc=NaHyun%20Kim&descAlignY=70)
 
-![knh4437's GitHub stats](https://github-readme-stats.vercel.app/api?username=knh4437&count_private=true&show_icons=true&theme=tokyonight)
-&nbsp;&nbsp;
+<!--![knh4437's GitHub stats](https://github-readme-stats.vercel.app/api?username=knh4437&count_private=true&show_icons=true&theme=tokyonight)
+&nbsp;&nbsp; !-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knh4437)](https://solved.ac/knh4437/)
 
 #### :wave: Hello World!
