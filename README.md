@@ -3,6 +3,8 @@
 <!--![knh4437's GitHub stats](https://github-readme-stats.vercel.app/api?username=knh4437&count_private=true&show_icons=true&theme=tokyonight)
 &nbsp;&nbsp; !-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knh4437)](https://solved.ac/knh4437/)
+&nbsp;
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=knh4437&theme=dark)
 
 #### :wave: Hello World!
 - :mortar_board: 강남대학교 소프트웨어응용학부 소프트웨어학과 졸업 [ 2019.02 ~ 2023.02 ]
