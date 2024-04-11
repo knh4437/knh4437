@@ -1,10 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&&theme=tokyonight&section=header&height=250&animation=fadeIn&text=knh4437&desc=NaHyun%20Kim&descAlignY=70)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b949e&height=100&section=header&text=NaHyunKim-nl-&fontSize=30&fontColor=26a641&desc=welcome" width="100%"/>
 
-<!--![knh4437's GitHub stats](https://github-readme-stats.vercel.app/api?username=knh4437&count_private=true&show_icons=true&theme=tokyonight)
-&nbsp;&nbsp; !-->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knh4437)](https://solved.ac/knh4437/)
-&nbsp;
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=knh4437&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knh4437&hide=C&bg_color=00000000&border_color=8b949e&icon_color=8b949e&text_color=8b949e&title_color=26a641" width="38%" height=255/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=knh4437&show_icons=true&bg_color=00000000&border_color=8b949e&icon_color=8b949e&text_color=8b949e&title_color=26a641" width="60%"/>
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=knh4437&theme=github-compact" width=100%/>
+</a>
 
 #### :wave: Hello World!
 - :mortar_board: 강남대학교 소프트웨어응용학부 소프트웨어학과 졸업 [ 2019.02 ~ 2023.02 ]
@@ -12,6 +16,16 @@
 - 📓 체계적인 서버와 데이터베이스에 관심이 있습니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fknh4437&count_bg=%23628FDA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br>
+
+Blog
+---
+
+<a href="https://velog.io/@knh4437">
+  <img src="https://velog-readme-stats.vercel.app/api?name=knh4437"/>
+</a>
+<br>
 
 Skills
 -------------
@@ -32,3 +46,6 @@ Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b949e&height=40&section=footer&text=&fontSize=0" width="100%"/>
